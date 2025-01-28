@@ -38,8 +38,7 @@ Dalam kondisi normal (tanpa daya), kontak NC tertutup, sehingga arus mengalir. K
 ![spek relay](https://github.com/user-attachments/assets/44fd3faf-980f-440a-8cdb-3d1b2b93d8fb)
 ##### Gambar 8. spesifikasi SRD-12VDC-SL-C, https://www.alldatasheet.com/datasheet-pdf/view/1131868/SONGLERELAY/SRD-12VDC-FL-C.html
 ## III.	Desain PCB
-### a.	Tautan Proyek: https://pro.easyeda.com/editor#id=ca1ccf5a594040719d95668f727589ba,tab=a162b587e98a446786fa549da2a3f541|*f97f490400c044459423d3b92b2276d4@ca1ccf5a594040719d95668f727589ba
-### b.	Desain:
+### Desain:
 ![2D_Modul Semprot Otomatis_1_2025-01-28](https://github.com/user-attachments/assets/bb691fe5-7089-4587-9405-681917355919)
 ##### Gambar 10. Hasil render 2D Tampak atas Rangkaian PCB
 ![3D_Modul Semprot Otomatis_1_2025-01-28 (1)](https://github.com/user-attachments/assets/c7a55724-af62-445f-86ab-19e72d710d8e)
